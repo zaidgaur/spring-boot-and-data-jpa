@@ -20,5 +20,7 @@ public class DAO {
 		entityTransaction.commit();
 		entityManager.close();
 	}
+	
+	//comment
 
 }

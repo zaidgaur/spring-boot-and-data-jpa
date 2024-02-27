@@ -19,7 +19,7 @@ import com.zaid.basepackage.services.ServiceInterface;
 
 import ch.qos.logback.core.model.Model;
 import jakarta.annotation.PostConstruct;
-
+//controller class
 @Controller
 public class MyController {
 	@Autowired
